@@ -1,6 +1,5 @@
 class Carta:
     def __init__(self, valor, pinta):
-        self.pintas = []
         self.pinta = pinta
         self.valor = valor
 
